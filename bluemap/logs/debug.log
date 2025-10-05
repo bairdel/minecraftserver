@@ -1,0 +1,106 @@
+[2025-07-24 20:16:34][INFO] Loading resources...
+[2025-07-24 20:16:34][FINE] Loading resources from: bluemap/resourceExtensions.zip ...
+[2025-07-24 20:16:35][FINE] Loading resources from: bluemap/minecraft-client-1.21.8.jar ...
+[2025-07-24 20:16:35][INFO] Loading textures...
+[2025-07-24 20:16:35][FINE] Loading textures from: bluemap/resourceExtensions.zip ...
+[2025-07-24 20:16:35][FINE] Loading textures from: bluemap/minecraft-client-1.21.8.jar ...
+[2025-07-24 20:16:37][INFO] Baking resources...
+[2025-07-24 20:16:37][INFO] Resources loaded.
+[2025-07-24 20:16:37][FINE] Loading world world_the_end#minecraft:the_end ...
+[2025-07-24 20:16:37][FINE] Loading datapack...
+[2025-07-24 20:16:37][FINE] Loading datapack from: bluemap/resourceExtensions.zip ...
+[2025-07-24 20:16:37][FINE] Loading datapack from: bluemap/minecraft-client-1.21.8.jar ...
+[2025-07-24 20:16:37][FINE] Baking datapack...
+[2025-07-24 20:16:37][FINE] Datapack loaded.
+[2025-07-24 20:16:37][INFO] Initializing Storage: 'file' (Type: 'bluemap:file')
+[2025-07-24 20:16:37][INFO] Loading map 'world_the_end'...
+[2025-07-24 20:16:37][FINE] Loading render-state for map 'world_the_end'
+[2025-07-24 20:16:37][FINE] Loading textures for map 'world_the_end'
+[2025-07-24 20:16:37][FINE] Loading world world#minecraft:overworld ...
+[2025-07-24 20:16:37][FINE] Loading datapack...
+[2025-07-24 20:16:37][FINE] Loading datapack from: world/datapacks/bukkit ...
+[2025-07-24 20:16:37][FINE] Loading datapack from: bluemap/resourceExtensions.zip ...
+[2025-07-24 20:16:37][FINE] Loading datapack from: bluemap/minecraft-client-1.21.8.jar ...
+[2025-07-24 20:16:37][FINE] Baking datapack...
+[2025-07-24 20:16:37][FINE] Datapack loaded.
+[2025-07-24 20:16:37][INFO] Loading map 'world'...
+[2025-07-24 20:16:37][FINE] Loading render-state for map 'world'
+[2025-07-24 20:16:37][FINE] Loading textures for map 'world'
+[2025-07-24 20:16:37][FINE] Loading world world_nether#minecraft:the_nether ...
+[2025-07-24 20:16:37][FINE] Loading datapack...
+[2025-07-24 20:16:37][FINE] Loading datapack from: bluemap/resourceExtensions.zip ...
+[2025-07-24 20:16:37][FINE] Loading datapack from: bluemap/minecraft-client-1.21.8.jar ...
+[2025-07-24 20:16:37][FINE] Baking datapack...
+[2025-07-24 20:16:37][FINE] Datapack loaded.
+[2025-07-24 20:16:37][INFO] Loading map 'world_nether'...
+[2025-07-24 20:16:37][FINE] Loading render-state for map 'world_nether'
+[2025-07-24 20:16:37][FINE] Loading textures for map 'world_nether'
+[2025-07-24 20:16:37][INFO] WebServer bound to all network interfaces on port 8100
+[2025-07-24 20:16:37][INFO] WebServer started.
+[2025-07-24 20:16:37][FINE] Started watching map 'world_nether' for updates...
+[2025-07-24 20:16:37][FINE] Started watching map 'world_the_end' for updates...
+[2025-07-24 20:16:37][FINE] Started watching map 'world' for updates...
+[2025-07-24 20:16:37][INFO] Loaded!
+[2025-07-24 20:16:38][FINE] No renderer found for entity type: minecraft:sheep
+[2025-07-24 20:16:38][FINE] No renderer found for entity type: minecraft:chicken
+[2025-07-24 20:16:38][FINE] No renderer found for entity type: minecraft:pig
+[2025-07-24 20:16:38][FINE] No renderer found for entity type: minecraft:creeper
+[2025-07-24 20:16:38][FINE] No renderer found for entity type: minecraft:skeleton
+[2025-07-24 20:16:38][FINE] No renderer found for entity type: minecraft:spider
+[2025-07-24 20:16:38][FINE] No renderer found for entity type: minecraft:cow
+[2025-07-24 20:16:38][FINE] No renderer found for entity type: minecraft:bat
+[2025-07-24 20:16:39][FINE] No renderer found for entity type: minecraft:item
+[2025-07-24 20:16:39][FINE] No renderer found for entity type: minecraft:zombie
+[2025-07-24 20:16:40][FINE] No renderer found for entity type: minecraft:glow_squid
+[2025-07-24 20:16:40][FINE] No renderer found for entity type: minecraft:dolphin
+[2025-07-24 20:16:41][FINE] No renderer found for entity type: minecraft:cod
+[2025-07-24 20:16:42][FINE] No renderer found for entity type: minecraft:squid
+[2025-07-24 20:16:44][FINE] No renderer found for entity type: minecraft:strider
+[2025-07-24 20:16:49][FINE] No renderer found for entity type: minecraft:end_crystal
+[2025-07-24 20:21:45][FINE] Scheduled update for region-file: (0, -1) (Map: world)
+[2025-07-24 20:21:45][FINE] Scheduled update for region-file: (-1, -1) (Map: world_nether)
+[2025-07-24 20:21:45][FINE] Scheduled update for region-file: (0, 0) (Map: world_nether)
+[2025-07-24 20:21:45][FINE] Scheduled update for region-file: (-1, 0) (Map: world_nether)
+[2025-07-24 20:21:45][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-07-24 20:21:45][FINE] Scheduled update for region-file: (0, 0) (Map: world)
+[2025-07-24 20:21:45][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-07-24 20:21:45][FINE] No renderer found for entity type: minecraft:zombified_piglin
+[2025-07-24 20:21:45][FINE] No renderer found for entity type: minecraft:piglin
+[2025-07-24 20:21:46][FINE] No renderer found for entity type: minecraft:enderman
+[2025-07-24 20:24:11][FINE] Scheduled update for region-file: (0, -1) (Map: world)
+[2025-07-24 20:24:11][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-07-24 20:24:11][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-07-24 20:24:11][FINE] Scheduled update for region-file: (0, 0) (Map: world)
+[2025-07-24 20:24:14][FINE] No renderer found for entity type: minecraft:horse
+[2025-07-24 20:24:18][FINE] No renderer found for entity type: minecraft:bee
+[2025-07-24 20:24:41][FINE] No renderer found for entity type: minecraft:chest_minecart
+[2025-07-24 20:25:03][FINE] Scheduled update for region-file: (0, -1) (Map: world)
+[2025-07-24 20:25:05][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-07-24 20:25:05][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-07-24 20:25:16][FINE] Scheduled update for region-file: (0, -1) (Map: world_nether)
+[2025-07-24 20:25:16][FINE] Scheduled update for region-file: (-1, -1) (Map: world_nether)
+[2025-07-24 20:25:16][FINE] Scheduled update for region-file: (0, 0) (Map: world_nether)
+[2025-07-24 20:25:16][FINE] Scheduled update for region-file: (-1, 0) (Map: world_nether)
+[2025-07-24 20:25:17][FINE] No renderer found for entity type: minecraft:ghast
+[2025-07-24 20:25:39][FINE] Scheduled update for region-file: (0, -1) (Map: world_nether)
+[2025-07-24 20:25:39][FINE] Scheduled update for region-file: (0, 0) (Map: world_nether)
+[2025-07-24 20:25:41][FINE] No renderer found for entity type: minecraft:hoglin
+[2025-07-24 20:25:45][FINE] Scheduled update for region-file: (0, 0) (Map: world_nether)
+[2025-07-24 20:25:45][FINE] Scheduled update for region-file: (-1, 0) (Map: world_nether)
+[2025-07-24 20:26:45][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-07-24 20:31:45][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-07-24 20:36:45][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-07-24 20:41:45][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-07-24 20:46:45][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-07-24 23:50:52][FINE] Stopped watching map 'world_the_end' for updates.
+[2025-07-24 23:50:52][FINE] Stopped watching map 'world' for updates.
+[2025-07-24 23:50:52][FINE] Stopped watching map 'world_nether' for updates.
+[2025-07-24 23:50:52][FINE] Started watching map 'world_the_end' for updates...
+[2025-07-24 23:50:52][FINE] Started watching map 'world' for updates...
+[2025-07-24 23:50:52][FINE] Started watching map 'world_nether' for updates...
+[2025-07-24 23:50:53][FINE] Failed to send Metrics-Report: java.io.IOException: Server returned HTTP response code: 429 for URL: https://metrics.bluecolored.de/bluemap/
+[2025-07-24 23:50:53][FINE] Failed to send Metrics-Report: java.io.IOException: Server returned HTTP response code: 429 for URL: https://metrics.bluecolored.de/bluemap/
+[2025-07-24 23:50:53][FINE] Failed to send Metrics-Report: java.io.IOException: Server returned HTTP response code: 429 for URL: https://metrics.bluecolored.de/bluemap/
+[2025-07-24 23:50:53][FINE] Failed to send Metrics-Report: java.io.IOException: Server returned HTTP response code: 429 for URL: https://metrics.bluecolored.de/bluemap/
+[2025-07-24 23:50:53][FINE] Failed to send Metrics-Report: java.io.IOException: Server returned HTTP response code: 429 for URL: https://metrics.bluecolored.de/bluemap/
+[2025-07-24 23:50:53][FINE] Failed to send Metrics-Report: java.io.IOException: Server returned HTTP response code: 429 for URL: https://metrics.bluecolored.de/bluemap/
