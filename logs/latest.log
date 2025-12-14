@@ -1,95 +1,202 @@
-[01:35:25] [Server thread/INFO]: elebexm issued server command: /gamemode creative
-[01:35:25] [Server thread/INFO]: [elebexm: Set own game mode to Creative Mode]
-[01:36:08] [Server thread/INFO]: elebexm issued server command: /tp 703 615
-[01:36:15] [Server thread/INFO]: elebexm issued server command: /tp 703 120 615
-[01:36:15] [Server thread/INFO]: [elebexm: Teleported elebexm to 703.500000, 120.000000, 615.500000]
-[01:36:46] [Server thread/INFO]: elebexm issued server command: /tp 703 120 -615
-[01:36:46] [Server thread/INFO]: [elebexm: Teleported elebexm to 703.500000, 120.000000, -614.500000]
-[01:37:54] [Server thread/INFO]: elebexm issued server command: /tp 984 -1251
-[01:38:00] [Server thread/INFO]: elebexm issued server command: /tp 984 120 -1251
-[01:38:00] [Server thread/INFO]: [elebexm: Teleported elebexm to 984.500000, 120.000000, -1250.500000]
-[01:39:03] [Server thread/INFO]: elebexm issued server command: /bluemap maps
-[01:49:03] [Server thread/INFO]: elebexm issued server command: /bluemap maps
-[01:55:52] [Server thread/INFO]: elebexm issued server command: /tp -733 120 -476
-[01:55:52] [Server thread/INFO]: [elebexm: Teleported elebexm to -732.500000, 120.000000, -475.500000]
-[01:56:47] [Server thread/INFO]: elebexm issued server command: /bluemap maps
-[01:57:10] [Server thread/INFO]: elebexm issued server command: /tp -2329 120 -965
-[01:57:10] [Server thread/INFO]: [elebexm: Teleported elebexm to -2328.500000, 120.000000, -964.500000]
-[01:57:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3832ms or 76 ticks behind
-[02:16:11] [Server thread/INFO]: elebexm issued server command: /tp 0 120 0
-[02:16:11] [Server thread/INFO]: [elebexm: Teleported elebexm to 0.500000, 120.000000, 0.500000]
-[02:16:28] [Server thread/INFO]: elebexm issued server command: /bluemap maps
-[02:20:07] [Server thread/INFO]: elebexm issued server command: /bluemap maps
-[02:22:07] [Server thread/INFO]: elebexm issued server command: /gamemode survival
-[02:22:07] [Server thread/INFO]: [elebexm: Set own game mode to Survival Mode]
-[02:22:17] [Server thread/INFO]: elebexm issued server command: /bluemap maps
-[02:25:59] [Server thread/INFO]: elebexm issued server command: /bluemap maps
-[02:31:13] [Server thread/INFO]: elebexm issued server command: /bluemap maps
-[02:37:58] [Server thread/INFO]: elebexm issued server command: /bluemap maps
-[02:38:49] [Server thread/INFO]: elebexm issued server command: /gamemode creative
-[02:38:49] [Server thread/INFO]: [elebexm: Set own game mode to Creative Mode]
-[02:39:03] [Server thread/INFO]: elebexm issued server command: /tp -639 120 -1000
-[02:39:03] [Server thread/INFO]: [elebexm: Teleported elebexm to -638.500000, 120.000000, -999.500000]
-[02:39:04] [Server thread/WARN]: elebexm moved too quickly! 0.0,-10.806526110008988,0.0
-[02:40:07] [Server thread/INFO]: elebexm issued server command: /tp -1600 120 -1200
-[02:40:07] [Server thread/INFO]: [elebexm: Teleported elebexm to -1599.500000, 120.000000, -1199.500000]
-[02:40:48] [Server thread/INFO]: elebexm issued server command: /tp -1000 120 -1500
-[02:40:48] [Server thread/INFO]: [elebexm: Teleported elebexm to -999.500000, 120.000000, -1499.500000]
-[02:44:37] [Server thread/INFO]: elebexm issued server command: /tp -500 120 -1200
-[02:44:37] [Server thread/INFO]: [elebexm: Teleported elebexm to -499.500000, 120.000000, -1199.500000]
-[02:44:51] [Server thread/INFO]: elebexm issued server command: /tp -500 120 -2100
-[02:44:51] [Server thread/INFO]: [elebexm: Teleported elebexm to -499.500000, 120.000000, -2099.500000]
-[02:46:28] [Server thread/INFO]: elebexm issued server command: /tp -160 120 -1400
-[02:46:28] [Server thread/INFO]: [elebexm: Teleported elebexm to -159.500000, 120.000000, -1399.500000]
-[02:49:49] [Server thread/INFO]: elebexm issued server command: /tp 600 140 -1000
-[02:49:49] [Server thread/INFO]: [elebexm: Teleported elebexm to 600.500000, 140.000000, -999.500000]
-[02:50:04] [Server thread/INFO]: elebexm issued server command: /gamemode survival
-[02:50:04] [Server thread/INFO]: [elebexm: Set own game mode to Survival Mode]
-[02:50:18] [Server thread/INFO]: elebexm issued server command: /bluemap maps
-[03:02:59] [Server thread/INFO]: elebexm issued server command: /bluemap maps
-[03:21:12] [Server thread/INFO]: elebexm issued server command: /bluemap maps
-[03:21:23] [Server thread/INFO]: elebexm lost connection: Disconnected
-[03:21:23] [Server thread/INFO]: elebexm left the game
-[03:21:32] [Server thread/INFO]: Stopping server
-[03:21:32] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.13
-[03:21:32] [Server thread/INFO]: [BlueMap] Stopping...
-[03:21:33] [Server thread/INFO]: [BlueMap] Saved and stopped!
-[03:21:33] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.0-SNAPSHOT
-[03:21:33] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[03:21:33] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[03:21:33] [Server thread/INFO]: [squaremap] Disabling squaremap v1.3.8
-[03:21:33] [Server thread/INFO]: [io.undertow] stopping server: Undertow - 2.3.18.Final
-[03:21:33] [Server thread/INFO]: [squaremap] Internal webserver stopped
-[03:21:33] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0
-[03:21:33] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[03:21:33] [Server thread/INFO]: Saving players
-[03:21:33] [Server thread/INFO]: Saving worlds
-[03:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:21:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:21:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:21:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:21:33] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 252 entity chunks, 0 poi chunks in world 'world' in 0.18s
-[03:21:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[03:21:33] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[03:21:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:21:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:21:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:21:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:21:34] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 57 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
-[03:21:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[03:21:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[03:21:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:21:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:21:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:21:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:21:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[03:21:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[03:21:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[03:21:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:21:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:21:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:21:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:21:34] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[03:21:34] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[03:21:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[03:21:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[15:33:44] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.1+8-Ubuntu-125.10; Ubuntu null) on Linux 6.17.0-1004-raspi (aarch64)
+[15:33:44] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-60-main@29c8822 (2025-09-06T21:49:13Z) for Minecraft 1.21.8
+[15:33:44] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:33:47] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://jitpack.io/com/github/Exlll/ConfigLib/configlib-paper/4.2.0/configlib-paper-4.2.0.pom
+[15:33:48] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://jitpack.io/com/github/Exlll/ConfigLib/configlib-paper/4.2.0/configlib-paper-4.2.0.jar
+[15:33:49] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Error resolving libraries
+io.papermc.paper.plugin.loader.library.LibraryLoadingException: Error resolving libraries
+	at io.papermc.paper.plugin.loader.library.impl.MavenLibraryResolver.register(MavenLibraryResolver.java:146) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.loader.PaperClasspathBuilder.buildLibraryPaths(PaperClasspathBuilder.java:68) ~[paper-1.21.8.jar:?]
+	at io.papermc.paper.plugin.loader.PaperClasspathBuilder.buildClassLoader(PaperClasspathBuilder.java:44) ~[paper-1.21.8.jar:?]
+	at io.papermc.paper.plugin.provider.type.paper.PaperPluginProviderFactory.build(PaperPluginProviderFactory.java:44) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.type.paper.PaperPluginProviderFactory.build(PaperPluginProviderFactory.java:23) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.type.PluginFileType.register(PluginFileType.java:72) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:95) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at net.minecraft.server.Main.main(Main.java:112) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+Caused by: org.eclipse.aether.resolution.DependencyResolutionException: The following artifacts could not be resolved: com.github.Exlll.ConfigLib:configlib-paper:jar:4.2.0 (absent): Could not find artifact com.github.Exlll.ConfigLib:configlib-paper:jar:4.2.0 in jitpack (https://jitpack.io/)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:365) ~[maven-resolver-impl-1.9.18.jar:1.9.18]
+	at io.papermc.paper.plugin.loader.library.impl.MavenLibraryResolver.register(MavenLibraryResolver.java:144) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	... 15 more
+Caused by: org.eclipse.aether.resolution.ArtifactResolutionException: The following artifacts could not be resolved: com.github.Exlll.ConfigLib:configlib-paper:jar:4.2.0 (absent): Could not find artifact com.github.Exlll.ConfigLib:configlib-paper:jar:4.2.0 in jitpack (https://jitpack.io/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:473) ~[maven-resolver-impl-1.9.18.jar:1.9.18]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:261) ~[maven-resolver-impl-1.9.18.jar:1.9.18]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:353) ~[maven-resolver-impl-1.9.18.jar:1.9.18]
+	at io.papermc.paper.plugin.loader.library.impl.MavenLibraryResolver.register(MavenLibraryResolver.java:144) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	... 15 more
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact com.github.Exlll.ConfigLib:configlib-paper:jar:4.2.0 in jitpack (https://jitpack.io/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:42) ~[maven-resolver-connector-basic-1.9.18.jar:1.9.18]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:417) ~[maven-resolver-connector-basic-1.9.18.jar:1.9.18]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:260) ~[maven-resolver-connector-basic-1.9.18.jar:1.9.18]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:537) ~[maven-resolver-impl-1.9.18.jar:1.9.18]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:449) ~[maven-resolver-impl-1.9.18.jar:1.9.18]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:261) ~[maven-resolver-impl-1.9.18.jar:1.9.18]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:353) ~[maven-resolver-impl-1.9.18.jar:1.9.18]
+	at io.papermc.paper.plugin.loader.library.impl.MavenLibraryResolver.register(MavenLibraryResolver.java:144) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	... 15 more
+[15:33:49] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[15:33:49] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - BlueMap (5.13), Geyser-Spigot (2.9.0-SNAPSHOT), ViaVersion (5.5.0), squaremap (1.3.8)
+[15:33:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:34:00] [ServerMain/INFO]: Loaded 1407 recipes
+[15:34:00] [ServerMain/INFO]: Loaded 1520 advancements
+[15:34:00] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:34:01] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 677.6ms
+[15:34:01] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[15:34:01] [Server thread/INFO]: Loading properties
+[15:34:01] [Server thread/INFO]: This server is running Paper version 1.21.8-60-main@29c8822 (2025-09-06T21:49:13Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[15:34:01] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:34:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:34:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:34:01] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[15:34:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[15:34:02] [Server thread/INFO]: Default game type: SURVIVAL
+[15:34:02] [Server thread/INFO]: Generating keypair
+[15:34:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:34:02] [Server thread/INFO]: Using epoll channel type
+[15:34:02] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[15:34:02] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux aarch64) cipher from Velocity.
+[15:34:03] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loading 1 libraries... please wait
+[15:34:03] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loaded library /home/becks/Documents/minecraftserver/libraries/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.jar
+[15:34:03] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0
+[15:34:03] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0 is now loaded. Registering protocol transformers and injecting...
+[15:34:04] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[15:34:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[15:34:05] [Server thread/INFO]: [squaremap] Loading server plugin squaremap v1.3.8
+[15:34:05] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.0-SNAPSHOT
+[15:34:06] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[15:34:06] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[15:34:06] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.13
+[15:34:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:34:06] [Server thread/INFO]: [squaremap] Enabling squaremap v1.3.8
+[15:34:08] [Server thread/INFO]: [io.undertow] starting server: Undertow - 2.3.18.Final
+[15:34:08] [Server thread/INFO]: [org.xnio] XNIO version 3.8.16.Final
+[15:34:08] [Server thread/INFO]: [org.xnio.nio] XNIO NIO Implementation Version 3.8.16.Final
+[15:34:09] [Server thread/INFO]: [org.jboss.threads] JBoss Threads version 3.5.0.Final
+[15:34:09] [Server thread/INFO]: [squaremap] Internal webserver running on 0.0.0.0:8080
+[15:34:09] [Server thread/INFO]: Preparing level "world"
+[15:34:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:34:11] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:11] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:12] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:12] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:12] [Server thread/INFO]: Time elapsed: 1697 ms
+[15:34:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:34:12] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:13] [Server thread/INFO]: Preparing spawn area: 16%
+[15:34:13] [Server thread/INFO]: Time elapsed: 545 ms
+[15:34:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:34:13] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:13] [Server thread/INFO]: Time elapsed: 271 ms
+[15:34:13] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0
+[15:34:13] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[15:34:13] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.0-SNAPSHOT
+[15:34:15] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.13
+[15:34:15] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
+[15:34:15] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[15:34:16] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[15:34:16] [Server thread/INFO]: [spark] Starting background profiler...
+[15:34:17] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
+[15:34:17] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:34:17] [Server thread/INFO]: [Geyser-Spigot] 
+[15:34:17] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.0-b980 (git-master-0488023)
+[15:34:17] [Server thread/INFO]: [Geyser-Spigot] 
+[15:34:17] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:34:22] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
+[15:34:22] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
+[15:34:23] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
+[15:34:23] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
+[15:34:24] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
+[15:34:24] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 8100
+[15:34:24] [Thread-9/INFO]: [BlueMap] WebServer started.
+[15:34:24] [BlueMap-Load/INFO]: [BlueMap] Loaded!
+[15:34:27] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[15:34:27] [Server thread/INFO]: [Geyser-Spigot] Done (9.295s)! Run /geyser help for help!
+[15:34:27] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.130. Download it here: https://geysermc.org/download
+[15:34:27] [Server thread/INFO]: Done preparing level "world" (18.153s)
+[15:34:27] [Server thread/INFO]: Running delayed init tasks
+[15:34:27] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[15:34:27] [ForkJoinPool.commonPool-worker-1/INFO]: [squaremap] Fetching version information...
+[15:34:27] [Server thread/INFO]: Done (45.485s)! For help, type "help"
+[15:34:28] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.6.0, you're on: 5.5.0
+[15:34:28] [ForkJoinPool.commonPool-worker-1/INFO]: [squaremap] squaremap is 4 version(s) out of date.
+[15:34:28] [ForkJoinPool.commonPool-worker-1/INFO]: [squaremap] Download the latest release (v1.3.12) from https://github.com/jpenilla/squaremap/releases/tag/v1.3.12
+[15:37:31] [User Authenticator #0/INFO]: UUID of player elebexm is a5a0a289-a51a-4265-8096-450713becf1c
+[15:37:32] [Server thread/INFO]: elebexm joined the game
+[15:37:32] [Server thread/INFO]: elebexm[/192.168.1.89:52279] logged in with entity id 185 at ([world]-33.949707233784856, 76.0, -22.47197152141978)
+[15:58:31] [Server thread/INFO]: Villager Villager['Fletcher'/7805, uuid='038fd26f-a017-4190-b950-fb52a12be813', l='ServerLevel[world]', x=-1548.70, y=66.00, z=-522.90, cpos=[-97, -33], tl=485, v=true] died, message: 'Fletcher was slain by Zombie'
+[17:02:08] [Server thread/INFO]: elebexm lost connection: Disconnected
+[17:02:08] [Server thread/INFO]: elebexm left the game
+[19:12:14] [Server console handler/ERROR]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Input/output error
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.20.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:108) ~[paper-1.21.8.jar:1.21.8-60-29c8822]
+Caused by: java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.read0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:201) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:71) ~[?:?]
+	at org.jline.terminal.impl.AbstractPty$1.read(AbstractPty.java:58) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:124) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:157) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:56) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160) ~[jline-reader-3.20.0.jar:?]
+	... 9 more
+[19:12:14] [Server thread/INFO]: Stopping server
+[19:12:14] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.13
+[19:12:14] [Server thread/INFO]: [BlueMap] Stopping...
+[19:12:15] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[19:12:15] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.0-SNAPSHOT
+[19:12:15] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[19:12:15] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[19:12:15] [Server thread/INFO]: [squaremap] Disabling squaremap v1.3.8
+[19:12:15] [Server thread/INFO]: [io.undertow] stopping server: Undertow - 2.3.18.Final
+[19:12:15] [Server thread/INFO]: [squaremap] Internal webserver stopped
+[19:12:15] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0
+[19:12:15] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[19:12:15] [Server thread/INFO]: Saving players
+[19:12:15] [Server thread/INFO]: Saving worlds
+[19:12:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 116 entity chunks, 0 poi chunks in world 'world' in 0.10s
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[19:12:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Saved 9 block chunks, 67 entity chunks, 0 poi chunks in world 'world_nether' in 0.11s
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[19:12:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[19:12:15] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[19:12:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:12:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:12:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:12:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:12:15] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[19:12:15] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[19:12:15] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[19:12:15] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
